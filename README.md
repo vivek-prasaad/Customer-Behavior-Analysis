@@ -37,9 +37,9 @@ Key Insights
 Project Files
 - `notebooks/` – Python EDA notebook
 - `dashboard/` – Power BI dashboard image
-- `reports/` – Project PDF walkthrough
+- `mysql/` – sql queries
 
 ---
 
-## 📈 Outcome
+Outcome
 This project demonstrates an end-to-end analytics pipeline, transforming raw data into actionable business insights.
