@@ -33,8 +33,7 @@ Key Insights
 - Subscription status impacts customer spending behavior
 
 ---
-## Dashboard Preview
-![Dashboard Preview](asset/powerbi_dashboard.png)
+
 
 Project Files
 - `notebooks/` – Python EDA notebook
