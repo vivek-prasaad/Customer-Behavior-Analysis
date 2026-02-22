@@ -34,7 +34,7 @@ Key Insights
 
 ---
 ## Dashboard Preview
-![Dashboard Preview](assets/powerbi_dashboard.png)
+![Dashboard Preview](asset/powerbi_dashboard.png)
 
 Project Files
 - `notebooks/` – Python EDA notebook
