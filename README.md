@@ -1,4 +1,4 @@
-Customer Behavior Analytics
+# Customer Behavior Analytics
 
 An end-to-end data analytics project demonstrating how data flows from  
 **analysis → database → visualization** to support data-driven business decisions.
@@ -33,6 +33,8 @@ Key Insights
 - Subscription status impacts customer spending behavior
 
 ---
+## Dashboard Preview
+![Dashboard Preview](assets/powerbi_dashboard.png)
 
 Project Files
 - `notebooks/` – Python EDA notebook
